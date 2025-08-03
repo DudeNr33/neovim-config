@@ -8,4 +8,12 @@ return {
     },
     version = "*",
   },
+  -- {
+  --   "xiyaowong/transparent.nvim",
+  --   lazy = false,
+  -- },
+  {
+    "cachebag/nvim-tcss",
+    config = true,
+  },
 }
